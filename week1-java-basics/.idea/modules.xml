@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number-Sign-Checker/Number-Sign-Checker.iml" filepath="$PROJECT_DIR$/Number-Sign-Checker/Number-Sign-Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade-checker/grade-checker.iml" filepath="$PROJECT_DIR$/grade-checker/grade-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/week1-java-basics.iml" filepath="$PROJECT_DIR$/.idea/week1-java-basics.iml" />
     </modules>
   </component>
