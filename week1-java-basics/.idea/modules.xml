@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array- Part2/Array- Part2.iml" filepath="$PROJECT_DIR$/Array- Part2/Array- Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factorial-of-number/Factorial-of-number.iml" filepath="$PROJECT_DIR$/Factorial-of-number/Factorial-of-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrizzBuzz/FrizzBuzz.iml" filepath="$PROJECT_DIR$/FrizzBuzz/FrizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multiplication-Table/Multiplication-Table.iml" filepath="$PROJECT_DIR$/Multiplication-Table/Multiplication-Table.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number-Checking/Number-Checking.iml" filepath="$PROJECT_DIR$/Number-Checking/Number-Checking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number-Sign-Checker/Number-Sign-Checker.iml" filepath="$PROJECT_DIR$/Number-Sign-Checker/Number-Sign-Checker.iml" />
@@ -13,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pattern-Program2/Pattern-Program2.iml" filepath="$PROJECT_DIR$/Pattern-Program2/Pattern-Program2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternProgram3/PatternProgram3.iml" filepath="$PROJECT_DIR$/PatternProgram3/PatternProgram3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse-a-number/Reverse-a-number.iml" filepath="$PROJECT_DIR$/Reverse-a-number/Reverse-a-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sum-of-Digits/Sum-of-Digits.iml" filepath="$PROJECT_DIR$/Sum-of-Digits/Sum-of-Digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/grade-checker/grade-checker.iml" filepath="$PROJECT_DIR$/grade-checker/grade-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/week1-java-basics.iml" filepath="$PROJECT_DIR$/.idea/week1-java-basics.iml" />
